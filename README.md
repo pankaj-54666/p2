@@ -1,6 +1,7 @@
 # Setup Step(skipped)
 Install Gradle & check version
-Install Java17 and check version
+Install Java17 and check version (https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/windows-install.html)
+ 
 
 (1) install gradle & check version
 (2) install java 17 
